@@ -1,0 +1,450 @@
+Prompt: malay
+Joke: What do you call an Indian who is very good in Malay language? Malayvendan
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: malay
+Joke: What do you call a Malay that is good at maths? Malaiyak
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: malay
+Joke: What do you call a Malay who is good at catching things? Malaiyak
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: nasilemak
+Joke: Why did the nasilemak refuse to fight? Because it didn't want to kena lemak
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: nasilemak
+Joke: What do you call a nasilemak that can solve a rubiks cube? A nasilemak genius.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: nasilemak
+Joke: What do you call a nasi lemak that is not polite? A Nasi Rude Mak
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: monash
+Joke: Why did the Monash student get a D for his exam? He did not pindah ke depan.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: monash
+Joke: Why did the Monash student got caught cheating? He did not pindah ke depan.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: monash
+Joke: If a Monash student is not smart, you call him a Mongolian student.
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: situationship
+Joke: What is a 'situationship'? It's when you are in a relationship with a location.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: situationship
+Joke: What is a 'situationship'? It's when you are in a relationship with a situation that caused by a sopan-santun-less uncle.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: situationship
+Joke: What is a situation where you are in a relationship but also not? Situationship.
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: satay
+Joke: Why is duck meat the best meat to be used in satay? Because it is the only meat that can say, "Satay!"
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: satay
+Joke: What do you call a Malay bro who is very good at making satay? A satay-lit.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: satay
+Joke: What do you call a Malay bro who is very good at making satay? A satay-lit. What do you call a Malay bro who is a second-generation satay-maker? A satay-v. What do you call a Malay bro who is very good at making satay and a DJ? A satay-v-lit.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: laksa
+Joke: Why don't you ever bring laksa for a picnic? Because it will be too xian!
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: laksa
+Joke: Why is the Sarawakian so good at making laksa? Because they've had so much practise!
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: laksa
+Joke: Why does laksa taste so good? Cause it laksa flavor.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: roti
+Joke: What do you call a flying roti? A ro-plane.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: roti
+Joke: Q: What do you call an excited bread? A: Roti Can-Can
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: roti
+Joke: Q: How do you make a bread angry? A: You kacau-teh
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: sabah
+Joke: What is the most powerful element in the periodic table? Sabah
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: sabah
+Joke: What is the most patriotic person in Malaysia? Anak Sabah
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: sabah
+Joke: Why did the Sabahan stop his car on the road? He saw 'SABAH' written on the road.
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: mamak
+Joke: What's a mamak's favourite channel? University.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: mamak
+Joke: What do you call a mamak who is a superhero? Rotiman.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: mamak
+Joke: What do you call a mamak who is a pilot? Mamak-kanak.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: chickenrice
+Joke: Why did the chicken rice refuse to go into the pot? Because it heard the chef say, "I want more chicken rice!"
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: chickenrice
+Joke: Why did the chicken rice refuse to go to the nightclub? Because it heard the chef say, "I want more chicken rice!"
+Vote: None
+Recommend: None
+
+Prompt: chickenrice
+Joke: Why do chickens make terrible students? Because they always chee kai (chicken rice)
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: durian
+Joke: What do you call a durian that is broke? Durian bankrap
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: durian
+Joke: What is a durian's favourite band? Durian Durian.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: durian
+Joke: Why do Durian taste so good? Cos it’s a sweet talker
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: tiger
+Joke: Why is the Tiger going to get married? Because it is marrying a Tigeress
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: tiger
+Joke: What is the Malaysian version of Tiger Woods? Harimau Woods.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: tiger
+Joke: Why do tigers never lose at poker? Because they're cheetahs!
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: klcc
+Joke: Why did the coffee get a job at KLCC? Because it was always brewing
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: klcc
+Joke: Hey girl, are you KLCC? Cause I can't afford you
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: klcc
+Joke: Hey girl, are you KLCC? Cause you're not my type, I prefer IOI City Mall
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: chinesenewyear
+Joke: Hey girl, is your dad a multi-millionaire? No? Then why are you so CNY?
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: chinesenewyear
+Joke: What do you call a bunch of Chinese New Year well-wishers? Kong Hee Huat Chai.
+Vote: Upvote
+Recommend: Ibu bapa
+
+Prompt: chinesenewyear
+Joke: What is the best thing to say on Chinese New Year eve?? Goodbye!
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: kacau
+Joke: A girl asked a boy, “If I call your name, it means I like you. What if I kacau you?” The boy replied, “It means you love me.”
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: kacau
+Joke: Girl: Can I kacau your handphone? Boy: No, but you can kacau my heart.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: kacau
+Joke: What's the most kacau number? Tiga puluh tiga, because it tiga (disturb) tiga
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: dapao
+Joke: What do you call a takeaway meal with a PhD in mathematics? Dapao
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: dapao
+Joke: What do you call a box of uncooked rice? Dapao.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: dapao
+Joke: What did the evil Dapao say to the good Dapao? Want some Dapaosauce?
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: proton
+Joke: What do you call a prostitute who is also a mechanic? A pro-ton.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: proton
+Joke: Son: Dad, what's a proton? Dad: It's a car manufacturer. Son: No, I mean what's a proton? Dad: It's a car manufacturer.
+Vote: Upvote
+Recommend: Ibu bapa
+
+Prompt: proton
+Joke: What did the Ah Beng say when he saw a car bonnet? Proton Maid.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: sambal
+Joke: What's a satay's favourite condiment? Sambal-peanuts
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: sambal
+Joke: What's the spiciest thing in the world? Sambal, because it makes your nose go "sambal naaaaak"
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: sambal
+Joke: Why did the sotong add sambal to his ink? Cos he wants to be a sotong king
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: Nasilemak
+Joke: What do you call a parent who brings their child to eat Nasilemak that doesn't have coconut milk? Fai-o-lan
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: Nasilemak
+Joke: What do you call a fat chicken? Ayam Nasilemak
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: Nasilemak
+Joke: What do you call a reverse Nasilemak? Nasilemak with the rice on top
+Vote: Downvote
+Recommend: Ibu bapa
+
+Prompt: Kancil
+Joke: What is the most successful car in Malaysia? Kancil, because it has so many children!
+Vote: Upvote
+Recommend: Relatives
+
+Prompt: Kancil
+Joke: What is a Kancil's favourite football position? Striker, because they always strike while the car is moving!
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: Kancil
+Joke: What is the name of the car that only eats vegetables? Kancil vegetarian
+Vote: Upvote
+Recommend: Ibu bapa
+
+Prompt: corruption
+Joke: When a corrupt scientist was caught, he said, "I'm not corrupt. I just have a high tendency to gravitate towards money."
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: corruption
+Joke: Q: What is the most corrupt thing in the world? A: The word 'rasuah' (corruption)
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: corruption
+Joke: What is a Malaysian's favourite type of corruption? KORupsi
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: crime
+Joke: What do you call a crime that is committed by a lawyer? A defense mechanism.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: crime
+Joke: What do you call it when a lawyer is in jail? A crime prevention measure.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: crime
+Joke: What is the most famous Malaysian's crime? Speeding.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: Chinese
+Joke: What is the difference between a Chinese and a Malay? The Chinese will say "You" but the Malay will say "U"
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: Chinese
+Joke: How do you know if a Chinese person is happy? They'll tell you.
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: Chinese
+Joke: What do you call a Chinese guy who always have to go to the toilet? Shi Ting Bin
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: Hokkien
+Joke: What is �hokkien� in Japanese? 8/7c
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: Hokkien
+Joke: Why Hokkien no girlfriend? Because Hokkien Mee is only good in one night stand.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: Hokkien
+Joke: Why Hokkien eat so much? Because Hokkien (hao xin)
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: babi
+Joke: What do you call a pig that celebrates its birthday? Babi-thday!
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: babi
+Joke: What is the most educated pig in the world? Pro-babi.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: babi
+Joke: What is the most unlucky animal in the world? Babi cause he lives in your house.
+Vote: Upvote
+Recommend: Ibu bapa
+
+Prompt: Indomee
+Joke: What's the most popular brand of noodles in Ah Beng's class? Indomee-lah
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: Indomee
+Joke: Why did the Indomee go to the dentist? Because of mee rebus
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: Indomee
+Joke: What do you call a fat Indomee? Mee Sua.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: nasilemak
+Joke: Why nasilemak cannot be a software engineer? Because he always ask for teh...chai instead of te...chai
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: nasilemak
+Joke: What type of tree do you like to eat? 'Nasilemak'
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: nasilemak
+Joke: What is the most expensive nasi lemak? Nasi lemak yang you beli tapi you tak makan sebab dengar orang kata mahal.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: durian
+Joke: What is the dentist's favourite fruit? Durian. Because it's spiky and painful.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: durian
+Joke: What is the most popular fruit among gangsters? Durian.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: durian
+Joke: What is the most durian fruit? The fruit that is very durian (during) the exam.
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: KLCC
+Joke: What is the most technologically advanced building in the world? KLCC. Why? Because it has HD.
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: KLCC
+Joke: What's the coldest place in Malaysia? KL-CC
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: KLCC
+Joke: What is your favourite place to swim? KLCC, because it KLCC (kill sees).
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: mamak
+Joke: Q: What do you call a mamak dinosaur? A: Roti-saurus.
+Vote: Upvote
+Recommend: Kawan-kawan
+
+Prompt: mamak
+Joke: Q: What do you call a mamak that is a doctor? A: Dr. Makan
+Vote: Downvote
+Recommend: Kawan-kawan
+
+Prompt: mamak
+Joke: Ahmad had a friend whose father owned a mamak shop. One day, they were walking past a mamak shop and Ahmad asked his friend, �Is that your father?� His friend replied, �No lah, if that�s my father, I would be eating at home.�
+Vote: Downvote
+Recommend: Kawan-kawan
+

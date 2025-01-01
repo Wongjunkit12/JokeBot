@@ -1,0 +1,450 @@
+Prompt: china
+Joke: A blonde girl enters a store that sells curtains. She tells the salesman, “I would like to buy a pink curtain in the size of my computer screen.” The surprised salesman replies, “But, madam, computers do not have curtains.” And the blonde said, “Helloooo…. I’ve got Windows!”
+Vote: Upvote
+Recommend: Friends
+
+Prompt: china
+Joke: Why did china invent fireworks? They're really good at copy and paste.
+Vote: Upvote
+Recommend: Relatives
+
+Prompt: china
+Joke: What do you call a country that has a lot of pandas? China. What do you call a country that has a lot of debt? America.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fish
+Joke: Q: Why don't fish like basketball?  A: Because they're afraid of the net.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: fish
+Joke: Q: What did the fish say when it swam into a wall?  A: Dam.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fish
+Joke: Why did the fish blush? Because it saw the ocean's bottom!
+Vote: Upvote
+Recommend: Friends
+
+Prompt: education
+Joke: An English teacher asked her students to punctuate the following sentence: 'A woman without her man is nothing' All of the males in the class wrote: 'A woman, without her man, is nothing' All the females in the class wrote: 'A woman: without her, man is nothing'
+Vote: Upvote
+Recommend: Friends
+
+Prompt: education
+Joke: Education is important but other stuff is more importanter.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: education
+Joke: Q: Why did the student take a ladder to high school?  A: Because he/she thought it was HIGH school.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: joke
+Joke: Q: Why did the scarecrow win an award?  A: Because he was outstanding in his field.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: joke
+Joke: Q: What's the difference between a snowman and a snowwoman?  A: Snowballs.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: joke
+Joke: A boy asks his father, "Dad, are bugs good to eat?" The father replies, "That's disgusting. Don't talk about things like that over dinner." After dinner, the father asks, "Now, son, what did you want to ask me?" "Oh, nothing," the boy says. "There was a bug in your soup, but now it’s gone."
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: monash
+Joke: Q: How do you kill a Monash University student? A: Fill his shower with cornflakes.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: monash
+Joke: Q: How do you make a Monash University student drink? A: Stick a funnel in his football.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: monash
+Joke: Q: What did the Monash University student say to the other Monash University student when he saw a fellow student drinking from a glass?   A: "Hey, where did you get the glass?"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: computerscience
+Joke: Q: Why do programmers always mix up Christmas and Halloween?  A: Because Oct 31 == Dec 25
+Vote: Upvote
+Recommend: Friends
+
+Prompt: computerscience
+Joke: Q: What is another name for a computer virus?  A: A terminal illness.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: computerscience
+Joke: Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: mother
+Joke: Yo momma is so stupid, she put two quarters in her ears and thought she was listening to 50 Cent.
+Vote: Upvote
+Recommend: Parents
+
+Prompt: mother
+Joke: A mother and her young son returned from the grocery store and began putting away the groceries. The boy opened the box of animal crackers and spread them all over the table. "What are you doing?" his mother asked. "The box says you can't eat them if the seal is broken," the boy explained. "I'm looking for the seal."
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: mother
+Joke: Yo mama so ugly when she tried to join an ugly contest they said, "Sorry, no professionals."
+Vote: Upvote
+Recommend: Friends
+
+Prompt: banana
+Joke: Q: What did the banana say to the vibrator?  A: "What are you shaking about? She's going to eat me!"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: banana
+Joke: I just wrote a book on reverse psychology. Do *not* read it!
+Vote: Downvote
+Recommend: Friends
+
+Prompt: banana
+Joke: What is yellow and goes bzzzzzz?  An electric banana.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: single
+Joke: Q: What's the worst thing about being lonely and single?  A: Playing Frisbee.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: single
+Joke: Q: What does a lonely frog say?  A: I'm so lonely, I'm so lonely.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: single
+Joke: Q: What do you call a single bee?  A: A "maybe".
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: india
+Joke: A Pakistani boy took admission in an American university...   Professor: What is your name?   Boy: Ahmad   Professor: S**?   Boy: Six to ten times a week   Professor: I mean, male or female?   Boy: Both male and female and sometimes even camels.   Professor: Holy cow   Boy: Yes, cows and dogs too….   Professor: Man,……whatever, just get out.   Boy: Oh thank God, I am Pakistani.
+Vote: Downvote
+Recommend: Friends
+
+Prompt: india
+Joke: Q: What is the difference between an Indian university and a university in the USA?  A: In the USA, a student passes a test and gets a degree. In India, a student passes a degree and gets a test.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: india
+Joke: Q. How does an Indian guy propose to his girlfriend? A. "Meet my wife."
+Vote: Downvote
+Recommend: Friends
+
+Prompt: classroom
+Joke: A college student is deeply regretful of his past in high school. So he visits a psychic and asks if he’ll be a success in his chosen field. The psychic assures him that he will be a success in his chosen field, so the student asks for any advice he can get. The psychic replies, “Yes, next time, don’t major in history.”
+Vote: Upvote
+Recommend: Friends
+
+Prompt: classroom
+Joke: A teacher asked her students to use the word "beans" in a sentence. "My father grows beans," said one girl. "My mother cooks beans," said a boy. A third student spoke up, "We are all human beans."
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: classroom
+Joke: Teacher: "Kids, what does the chicken give you?"  Student: "Meat!"  Teacher: "Very good! Now what does the pig give you?"  Student: "Bacon!"  Teacher: "Great! And what does the fat cow give you?"  Student: "Homework!"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: vehicle
+Joke: You're a bus driver. At the first stop of the day, eight people get on board. At the second stop, four get off, and eleven get on. At the third stop, two get off, and six get on. At the fourth stop, thirteen get off, and one gets on. At the fifth stop, five get off, and three get on. At the sixth stop, nine get off, and four get on. What color are the bus driver's eyes? The same color as yours. You're the bus driver.
+Vote: Downvote
+Recommend: Friends
+
+Prompt: vehicle
+Joke: Vehicle: "I lost my job at the bank on my very first day. A woman asked me to check her balance, so I pushed her over."
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: vehicle
+Joke: Q: What kind of vehicle does a sheep drive? A: A Lamborghini.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: feeling
+Joke: A woman gets on a bus with her baby. The bus driver says: “Ugh, that’s the ugliest baby I’ve ever seen!” The woman walks to the rear of the bus and sits down, fuming. She says to a man next to her: “The driver just insulted me!” The man says: “You go up there and tell him off. Go on, I’ll hold your monkey for you.”
+Vote: Upvote
+Recommend: Friends
+
+Prompt: feeling
+Joke: A teacher was giving a lesson on the circulation of the blood. Trying to make the matter clearer, he said: "Now, students, if I stood on my head the blood, as you know, would run into it, and I should turn red in the face." "Yes, sir," the boys said. "Then why is it that while I am standing upright in the ordinary position the blood doesn't run into my feet?" A little fellow shouted, "Cause your feet ain't empty."
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: feeling
+Joke: My teacher sends me to the principal's office every time I answer a question correctly. I don't deserve this.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: sports
+Joke: Q: Why are most NFL stadiums on the east coast?  A: Because if they were on the west coast, the fans would get all the good seats.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: sports
+Joke: Q: Why did the golfer bring two pairs of pants? A: In case he got a hole in one.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: sports
+Joke: Q: Why was Cinderella thrown off the basketball team? A: She ran away from the ball.
+Vote: Upvote
+Recommend: Parents
+
+Prompt: heaven
+Joke: There were three guys in Hell - Iranian, American, and a Chinese man. They asked Satan to let them call their family. The American called and talked for 10 minutes. He payed $1,000. The Chinaman called and talked for 15 minutes. He payed $2,000. The Iranian talked for an hour and only paid $10. The other men complained and Satan responded, "A call from Hell to Hell is local."
+Vote: Upvote
+Recommend: Friends
+
+Prompt: heaven
+Joke: There was a preacher who fell in the ocean and he couldn't swim. When a boat came by, the captain yelled, "Do you need help, sir?" The preacher calmly said "No, God will save me." A little later, another boat came by and a fisherman asked, "Hey, do you need help?" The preacher replied again, "No God will save me." Eventually the preacher drowned and went to heaven. The preacher asked God, "Why didn't you save me?" God replied, "Fool, I sent you two boats!"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: heaven
+Joke: A pious man who had reached the age of 105 suddenly stopped going to synagogue. Alarmed by the old fellow's absence after so many years of faithful attendance the Rabbi went to see him. He found him in excellent health, so the Rabbi asked, "How come after all these years we don't see you at services anymore?" The old man lowered his voice. "I'll tell you, Rabbi," he whispered. "When I got to be 90, I expected God to take me any day. But then I got to be 95, then 100, then 105. So I figured that God is very busy and must've forgotten about me, and I don't want to remind Him!"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: door
+Joke: A man got a job as a door-to-door salesman for a company that sold vacuum cleaners, and like many new salesmen he was ambitious to make good. Unfortunately, he was so late in coming home one night that his wife had to go to the neighbor's house to borrow a cup of sugar for the family dinner she was making. Because it was so late, and she didn't want to disturb the children, she whispered to the man at the door, "Give me a cup of sugar, please." "I'm sorry," the salesman said, "I'm a salesman, I don't have any sugar with me." Add another joke about the word: sugar.
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: door
+Joke: A lady opened her refrigerator and saw a rabbit sitting on one of the shelves, "What are you doing in there?" she asked. The rabbit replied, "This is a Westinghouse, isn't it?" The lady confirmed, "Yes." "Well," the rabbit said, "I'm westing."
+Vote: Upvote
+Recommend: Friends
+
+Prompt: door
+Joke: Why did the chicken go to the seance? To get to the other side of the door.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: computer
+Joke: A computer once beat me at chess, but it was no match for me at kick boxing.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: computer
+Joke: Q: Why did the computer go to the doctor?  A: Because it had a virus!
+Vote: Upvote
+Recommend: Friends
+
+Prompt: computer
+Joke: Q: What did the spider do on the computer?  A: Made a website!
+Vote: Upvote
+Recommend: Parents
+
+Prompt: mom
+Joke: Yo momma is so fat, I took a picture of her last Christmas and it's still printing.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: mom
+Joke: Why did the baby cookie cry? Because its mother was a wafer too long.
+Vote: Downvote
+Recommend: Siblings
+
+Prompt: mom
+Joke: Q: What did the baby corn say to the mama corn?  A: "Where's Popcorn?"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: monkey
+Joke: Why did the monkey like the banana? Because it had appeal.
+Vote: Upvote
+Recommend: Parents
+
+Prompt: monkey
+Joke: Q: What do monkeys do for laughs?  A: They tell jokes about people.
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: monkey
+Joke: Q: Why did the monkey like the banana?  A: Because it had appeal.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: school
+Joke: Teacher: "What is the future tense of the statement: 'I had killed a thief'?" Student: "You will go to jail."
+Vote: Downvote
+Recommend: Relatives
+
+Prompt: school
+Joke: Why did the math book look sad? Because it had too many problems.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: school
+Joke: A student comes to a young professor's office hours. She glances down the hall, closes his door, kneels pleadingly. "I would do anything to pass this exam." She leans closer to him, flips back her hair, gazes meaningfully into his eyes. "I mean..." she whispers, "...I would do...anything." He returns her gaze. "Anything?" "Anything." His voice softens. "Anything??" "Absolutely anything." His voice turns to a whisper. "Would you...study?"
+Vote: Upvote
+Recommend: Friends
+
+Prompt: mask
+Joke: Q: What did the mask say to the face?  A: "Let me cover for you."
+Vote: Upvote
+Recommend: Friends
+
+Prompt: mask
+Joke: Q: What did the mask say to the face?  A: "Let me cover for you."
+Vote: Downvote
+Recommend: Friends
+
+Prompt: mask
+Joke: What do you call a man with a mask on his face? The Lone Ranger.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: medic
+Joke: What did the dentist say to the computer?... This won't hurt a byte
+Vote: Upvote
+Recommend: Friends
+
+Prompt: medic
+Joke: What's the difference between a nurse and a dentist? A dentist lets you sit down while he hurts you and a nurse makes you sit up while she hurts you.
+Vote: Downvote
+Recommend: Parents
+
+Prompt: medic
+Joke: Why did the medic always bring a pencil to the emergency room? Because they wanted to draw blood!
+Vote: Upvote
+Recommend: Relatives
+
+Prompt: fashion
+Joke: Q: What's a monster's favorite clothes store?  A: Forever 21.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fashion
+Joke: Q. Why did the fashion designer always carry a pencil and paper?  A. Because he wanted to draw attention.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fashion
+Joke: I'm no fashion expert, but I'm pretty sure that if you put your pants on your head, you're doing it wrong.
+Vote: Downvote
+Recommend: Colleagues
+
+Prompt: animal
+Joke: Q: What did the elephant say to the naked man?  A: "How do you breathe through something so small?"
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: animal
+Joke: Q: What do you call an alligator in a vest?  A: An investigator.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: animal
+Joke: Q: What do you call a pig that does karate?  A: A pork chop.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: alcohol
+Joke: A woman walks into a bar and asks the bartender for a double entendre, so he gives it to her.
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: alcohol
+Joke: A man was driving drunk through the city. A man ran up to him and said, "You're the fourth drunk driver I've stopped today!" The drunk replied, "Wow! I must be really good!"
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: alcohol
+Joke: Q: What did the bartender say after Charles Dickens ordered a martini?  A: "Olive or twist?"
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: religion
+Joke: Yo mama so stupid, she thought the KKK was a religious group.
+Vote: Upvote
+Recommend: Parents
+
+Prompt: religion
+Joke: Three nuns are sitting on a park bench when a flasher comes by. The first nun has a stroke, the second nun has a stroke, but the third nun couldn't reach.
+Vote: Downvote
+Recommend: Friends
+
+Prompt: religion
+Joke: A little boy was learning about God in his church, and he was talking to his mother about it. She, not wanting to place prejudice in the little boy�s mind, sat him and said: �God is not a man or a woman, and God is not black or white.� To which the child responded, �Well, then is God Michael Jackson?�
+Vote: Upvote
+Recommend: Colleagues
+
+Prompt: computer
+Joke: Q: What do computers and air conditioners have in common?  A: They both become useless when you open windows.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: computer
+Joke: Q: What did the computer do at lunchtime?  A: Had a byte!
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: computer
+Joke: Q: Where do all the cool mice live?  A: In their mousepads.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: burger
+Joke: Why did the Pilgrim eat a burger before Thanksgiving? Because they were a bunch of meatheads!
+Vote: Downvote
+Recommend: Friends
+
+Prompt: burger
+Joke: Q: What do you get if you cross a burger and a computer?  A: A big mac.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: burger
+Joke: Why did the tomato turn red? Because it saw the salad dressing!
+Vote: Upvote
+Recommend: Siblings
+
+Prompt: apple
+Joke: Q: How do you make an apple turnover?  A: Push it down hill.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: apple
+Joke: Why did the apple go to the doctors? It felt rotten to the core.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: apple
+Joke: Q: Did you hear about the apple party?  A: It was a smashing success.
+Vote: Downvote
+Recommend: Friends
+
+Prompt: fish
+Joke: Q: What do you call a fish with no eyes?  A: Fsh.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fish
+Joke: Q: What did the fish say when it swam into a wall? A: Damn.
+Vote: Upvote
+Recommend: Friends
+
+Prompt: fish
+Joke: Q: What do fish use for money?  A: Sand dollars.
+Vote: Downvote
+Recommend: Friends
+
